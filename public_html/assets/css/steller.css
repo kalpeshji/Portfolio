@@ -12401,8 +12401,7 @@ pre {
     border-radius: 0.25rem !important;
   width: 100%;
   z-index: 8;
-  height: 350px !important;
-
+  height: 350px;
 }
 .nn{
   overflow: hidden;
@@ -12763,12 +12762,12 @@ pre {
 }
 
 .page-footer .socials {
-  max-width: 210px;
-  margin-left: auto;
+  /* max-width: 210px; */
+  /* margin-left: auto; */
 }
 
 .page-footer .socials .social-item {
-  margin-left: auto;
+  /* margin-left: auto; */
 }
 
 @media (max-width: 767.98px) {
@@ -12780,7 +12779,7 @@ pre {
     text-align: center;
   }
 
-  .page-footer .row .socials {
+  .page-footer .row .sociale {
     margin: auto;
   }
 }
